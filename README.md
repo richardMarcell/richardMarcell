@@ -5,7 +5,7 @@ I'm currently pursuing my education in Sabda Setia Institute of Technology and B
 
 
 ### **🚀 About Me**  
-- 🎓 **Background:** Bachelor’s Degree in Information Systems Technology  
+- 🎓 **Background:** Bachelor’s Degree in Information Systems Technology at Institute of Technology and Business Sabda Setia  
   
 
 - 💼 **Current Role:** Full Stack Web Developer at PT Turbin Inovasi Indonesia  
