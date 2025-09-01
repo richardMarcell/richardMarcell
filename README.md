@@ -8,7 +8,7 @@ I'm currently pursuing my education in Sabda Setia Institute of Technology and B
 - 🎓 **Background:** Bachelor’s Degree in Information Systems Technology at Institute of Technology and Business Sabda Setia  
   
 
-- 💼 **Current Role:** Full Stack Web Developer at PT Turbin Inovasi Indonesia  
+- 💼 **Current Role:** Programming Teacher at SMK Kristen Immanuel Pontianak  
   
 
 - 🌱 **Activity:** I’m always learning and exploring new technologies to improve my skills and deliver high-quality solutions.  
